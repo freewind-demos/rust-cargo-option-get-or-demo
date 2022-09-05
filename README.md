@@ -1,7 +1,7 @@
-rust-cargo-hello-world-demo
+rust-cargo-option-get-or-demo
 ===========================
 
-文件由`cargo new`生成。
+Option.get.or
 
 ```
 cargo run
